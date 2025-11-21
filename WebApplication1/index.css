@@ -1,0 +1,17 @@
+﻿
+
+.spac {
+    padding: 50px;
+}
+.colos {
+    color: #21D0C3;
+    font-weight: bold;
+}
+.colos:hover {
+    color: #C82333;
+}
+.col-md-3 .text-end .custmo {
+    border: 2px solid #21D0C3 !important;
+    color: #21D0C3 !important;
+}
+

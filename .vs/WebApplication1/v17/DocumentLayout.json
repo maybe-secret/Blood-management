@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|c:\\users\\souvik chakraborty\\source\\repos\\webapplication1\\webapplication1\\contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\layout.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\layout.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\stocks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\stocks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\webform10.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform10.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\aboutus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\aboutus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\stocks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\stocks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\smanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\smanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\smanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\smanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\certificate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\certificate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C6983CF-8E94-4FFD-A66F-84A92C83DF59}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\home.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\home.aspx",
+              "RelativeToolTip": "WebApplication1\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T15:12:03.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stocks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\stocks.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\stocks.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\stocks.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\stocks.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:06:40.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Layout.Master.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Layout.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Layout.Master.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Layout.Master.cs",
+              "RelativeToolTip": "WebApplication1\\Layout.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:12:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\index.css",
+              "RelativeDocumentMoniker": "WebApplication1\\index.css",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\index.css",
+              "RelativeToolTip": "WebApplication1\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T12:21:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\signUp.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\signUp.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\signUp.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\signUp.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:31:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contactUs.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\contactUs.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\contactUs.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\contactUs.aspx",
+              "RelativeToolTip": "WebApplication1\\contactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T12:28:07.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contactUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\contactUs.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\contactUs.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\contactUs.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\contactUs.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:59:16.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:11:28.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Layout.Master",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Layout.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Layout.Master",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Layout.Master",
+              "RelativeToolTip": "WebApplication1\\Layout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T15:03:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "aboutUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\aboutUs.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\aboutUs.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\aboutUs.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\aboutUs.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:05:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebForm10.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\WebForm10.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\WebForm10.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\WebForm10.aspx",
+              "RelativeToolTip": "WebApplication1\\WebForm10.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T15:07:24.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\register.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\register.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\register.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\register.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:43:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "aboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\aboutUs.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\aboutUs.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\aboutUs.aspx*",
+              "RelativeToolTip": "WebApplication1\\aboutUs.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-20T11:57:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stocks.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\stocks.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\stocks.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\stocks.aspx",
+              "RelativeToolTip": "WebApplication1\\stocks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T15:30:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\login.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx",
+              "RelativeToolTip": "WebApplication1\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T08:42:49.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:26:25.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "smanage.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\smanage.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\smanage.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\smanage.aspx",
+              "RelativeToolTip": "WebApplication1\\smanage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T18:23:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "smanage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\smanage.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\smanage.aspx.cs",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\smanage.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\smanage.aspx.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwCQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:27:14.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "signUp.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\signUp.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\signUp.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\signUp.aspx",
+              "RelativeToolTip": "WebApplication1\\signUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T10:45:18.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "certificate.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\certificate.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\certificate.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\certificate.aspx",
+              "RelativeToolTip": "WebApplication1\\certificate.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-18T11:43:48.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "register.aspx",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\register.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\register.aspx",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\register.aspx",
+              "RelativeToolTip": "WebApplication1\\register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T05:39:01.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\SOUVIK CHAKRABORTY\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T16:38:44.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

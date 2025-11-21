@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="container">
+            <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+                <div class="col-md-3 mb-2 mb-md-0">
+                    <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
+                        <svg height="50px" width="50px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 511.998 511.998" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#21D0C3;" cx="255.999" cy="255.999" r="255.999"></circle> <path style="fill:#FED298;" d="M253.588,303.442c30.515,8.855,86.791,18.118,86.791,18.118s-3.18,20.229-20.214,24.126 c-17.035,3.896-62.604-5.047-62.604-5.047s-8.308,8.169,6.348,10.892c14.657,2.726,86.399,1.175,86.399,1.175 s73.653-34.896,86.335-39.573c12.682-4.674,20.209,7.002,20.209,7.002s-84.756,67.107-92.683,72.951 c-7.928,5.839-139.824,17.2-139.824,17.2l-39.081,3.973l-15.452,16.528l-6.936,10.056l-70.491-57.948l56.235-39.932 c22.172-37.187,74.455-48.372,104.973-39.518L253.588,303.442z"></path> <path style="fill:#F0BA7D;" d="M445.321,329.254c-23.455,18.554-75.053,59.332-81.156,63.828 c-7.928,5.839-139.824,17.2-139.824,17.2l-39.081,3.973l-15.452,16.528l-6.936,10.056l-6.447-5.301 c16.141-15.714,27.848-25.915,24.979-24.308c-2.868,1.607,167.205-14.482,180.23-21.23c13.028-6.749,74.975-56.667,77.694-60.068 c2.721-3.4,5.988-0.679,5.988-0.679h0.002L445.321,329.254z"></path> <g> <path style="fill:#FFFFFF;" d="M317.616,319.967l-1.561,7.536l17.542,1.041c1.285-1.466,2.221-3.208,1.638-6.134l-17.617-2.443 H317.616z"></path> <path style="fill:#FFFFFF;" d="M443.372,325.667l2.154,2.276l9.413-6.725c0.624-1.342-2.308-1.749-2.308-1.749L443.372,325.667z"></path> <path style="fill:#FFFFFF;" d="M98.025,359.087l69.876,88.648l-15.414,16.03L78.076,371.58l19.952-12.491L98.025,359.087z"></path> </g> <path style="fill:#0F7986;" d="M43.971,399.496l34.1-27.915l83.149,100.294l-15.846,15.051 c-41.057-19.704-76.045-50.037-101.401-87.429L43.971,399.496L43.971,399.496z"></path> <path style="fill:#FF5B62;" d="M284.103,165.015c-0.761-32.612,34.605-58.644,40.626-97.126 c6.021,38.479,41.389,64.514,40.629,97.126C365.358,218.456,284.103,218.456,284.103,165.015z"></path> <path style="fill:#ED4C54;" d="M324.729,67.889c6.021,38.479,41.389,64.514,40.629,97.126c0,41.164-48.205,50.612-70.354,28.361 c18.373,14.415,51.576,8.835,61.963-13.24c16.177-34.38-32.31-71.869-32.237-112.244V67.889z"></path> <path style="fill:#FF878E;" d="M312.277,110.16c0,0-33.471,39.509-21.848,62.639C300.148,192.143,298.86,136.387,312.277,110.16z"></path> <path style="fill:#FF5B62;" d="M185.56,230.559c-1.193-51.155,54.286-91.993,63.731-152.355 c9.444,60.36,64.922,101.2,63.729,152.355C313.019,314.389,185.56,314.389,185.56,230.559z"></path> <path style="fill:#ED4C54;" d="M249.291,78.204c9.444,60.36,64.922,101.2,63.729,152.355c0,64.574-75.615,79.395-110.359,44.489 c28.82,22.613,80.907,13.858,97.199-20.769c25.373-53.928-50.685-112.738-50.568-176.072L249.291,78.204L249.291,78.204z"></path> <path style="fill:#FF878E;" d="M229.755,144.514c0,0-52.506,61.976-34.27,98.259C210.733,273.116,208.711,185.655,229.755,144.514z"></path> </g></svg>
+                    </a>
+                    
+                </div>
+                
+
+                <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+                    <li><a href="home.aspx" class="nav-link px-2 colos unik-a">HOME</a></li>
+                    <li id="vis3" runat="server"><a href="register.aspx" class="nav-link px-2 colos unik-d">REGISTER</a></li>
+                    <li id="vis2" runat="server"><a href="stocks.aspx" class="nav-link px-2 colos unik-c" >STOCKS</a></li>
+                    <li id="vis1" runat="server"><a href="aboutUs.aspx" class="nav-link px-2 colos unik-b" >ABOUT US</a></li>
+                    <li id="vis4" runat="server"><a href="contactUs.aspx" class="nav-link px-2 colos unik-e">CONTACT US</a></li>
+                </ul>
+
+                <div class="col-md-3 text-end">
+                    <asp:Button ID="btnLoginn" runat="server" Text="Login" CssClass="btn btn-outline-danger me-2 login" OnClick="btnLogin_Click"  />
+                    <asp:Button ID="btnSignUp" runat="server" Text="Sign-up" CssClass="btn btn-danger" OnClick="btnSignUp_Click" />
+                    <asp:Button ID="btnLogout" runat="server" Text="Logout" CssClass="btn btn-outline-danger me-2 " OnClick="btnLogout_Click"  />
+                    <h5 id="greet" runat="server" class="mt-2"></h5>
+                </div>
+                
+            </header>
+        </div>
+
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+        <div class="container">
+          <footer class="py-5">
+            <div class="row">
+              <div class="col-6 col-md-2 mb-3">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+                </ul>
+              </div>
+
+              <div class="col-6 col-md-2 mb-3">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+                </ul>
+              </div>
+
+              <div class="col-6 col-md-2 mb-3">
+                <h5>Section</h5>
+                <ul class="nav flex-column">
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
+                  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+                </ul>
+              </div>
+
+              <div class="col-md-5 offset-md-1 mb-3">
+                <form>
+                  <h5>Subscribe to our newsletter</h5>
+                  <p>Monthly digest of what's new and exciting from us.</p>
+                  <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                    <label for="newsletter1" class="visually-hidden">Email address</label>
+                    <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
+                    <button class="btn btn-danger" type="button">Subscribe</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+
+            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+              <p>© 2024 Company, Inc. All rights reserved.</p>
+              <ul class="list-unstyled d-flex">
+                <li class="ms-3" ><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"></use></svg></a></li>
+                <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"></use></svg></a></li>
+                <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"></use></svg></a></li>
+              </ul>
+            </div>
+          </footer>
+        </div>
+    </form>
+    
+</body>
+</html>

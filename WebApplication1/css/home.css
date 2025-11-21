@@ -1,0 +1,39 @@
+﻿.round{
+    border-radius: 15px;
+}
+
+.feature .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    fill: white;
+    padding: 10px;
+    background-color: #fff;
+}
+    .feature .feature-icon svg {
+        fill: #21D0C3;
+    }
+
+    .feature .feature-icon .cus-2 {
+        fill: #007AFD;
+    }
+    .feature .feature-icon .cus-3 {
+        fill: #28A745;
+    }
+
+
+
+
+.d-grid .custom-item {
+    border: 2px solid #21D0C3;
+    color: #21D0C3;
+}
+.d-grid .custom-item:hover{
+    background-color: #21D0C3 !important;
+    color: white !important;
+}
+.colours {
+    color: #21D0C3;
+}
+
+
