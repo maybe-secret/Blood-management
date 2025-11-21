@@ -1,4 +1,4 @@
-``
+```
 CREATE TABLE info(
 	roll_no INT PRIMARY KEY,
     class INT,
@@ -74,9 +74,9 @@ CREATE TABLE blood_stocks(
     Collect_Date VARCHAR(10),
     Expirey_Date VARCHAR(10)
 );
-``
 
 
 DROP TABLE blood_stocks;
 SELECT * FROM blood_stocks;
 INSERT INTO blood_stocks(Blood_Group, Blood_Stocks, Collect_Date, Expirey_Date) VALUES ("B-", "60", "20-03-2024", "25-02-2025");
+```
